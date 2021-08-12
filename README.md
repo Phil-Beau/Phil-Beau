@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Phil-Beau
+- 👋 Hi, I’m @Phil-Beau.
+
 - 👀 I’m interested in energy efficiency, machine learning and artificial intelligence.
+
 - 💞️ I’m looking to collaborate on software that leverage data to make buildings more energy efficient.
 
 <!---
